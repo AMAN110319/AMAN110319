@@ -1,3 +1,4 @@
+![logo](https://github.com/AMAN110319/AMAN110319/blob/main/Blue%20Gradient%20Modern%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Aman Tiwari</h1>
 <h3 align="center">A passionate full stack developer and an ML enthusiast,and interested in coding from India</h3>
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
