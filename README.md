@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on **Self driving cars**
 
-- 🌱 I’m currently learning **MERN STACK**
+- ☕️ I’m **MERN Full stack developer**
+- 🌱I’m currently learning **Spring Boot and microservices**
 
 - 👨‍💻 All of my projects are available at [https://portofolioaman.netlify.app/](https://portofolioaman.netlify.app/)
 
